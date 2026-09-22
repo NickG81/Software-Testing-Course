@@ -3,6 +3,6 @@ public class Main {
 
         System.out.println("Hello, World!");
         System.out.println("Goodbye.");
-
+        System.out.println("Merge Test");
     }
 }
